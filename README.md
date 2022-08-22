@@ -9,13 +9,13 @@
     <img alt="Made by" src="https://img.shields.io/badge/made%20by-Gustavo%20Henrique-8e44ad">
   </a>
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/Guribeiro/redux-auth-flow-api?color=8e44ad">
-  <a href="https://github.com/Guribeiro/softwrap-api/commits">
+  <a href="https://github.com/Guribeiro/redux-auth-flow-api/commits">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Guribeiro/redux-auth-flow-api?color=8e44ad">
   </a>
-  <a href="https://github.com/Guribeiro/softwrap-api/stargazers">
+  <a href="https://github.com/Guribeiro/redux-auth-flow-api/stargazers">
     <img alt="GitHub last commit" src="https://img.shields.io/github/stars/Guribeiro/redux-auth-flow-api?color=8e44ad">
   </a>
-  <a href="https://github.com/Guribeiro/softwrap-api/issues">
+  <a href="https://github.com/Guribeiro/redux-auth-flow-api/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/Guribeiro/redux-auth-flow-api?color=8e44ad">
   </a>
   <img alt="GitHub" src="https://img.shields.io/github/license/Guribeiro/redux-auth-flow-api?color=8e44ad">
