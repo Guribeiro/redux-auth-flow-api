@@ -1,0 +1,12 @@
+{
+  "type": "sqlite",
+  "database": "./src/shared/infra/sqlite/databse.sqlite",
+  "migrations": [
+    "./src/shared/infra/sqlite/migrations/**.ts"
+  ],
+  "entities": ["./src/modules/**/infra/typeorm/entities/*.ts"],
+  "uuidExtension": "uuid-ossp",
+  "cli": {
+    "migrationsDir": "./src/shared/infra/sqlite/migrations"
+  }
+}
